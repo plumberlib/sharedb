@@ -20,7 +20,9 @@
     "nyc": "^14.1.1",
     "ot-json1": "^0.3.0",
     "sharedb-legacy": "npm:sharedb@=1.1.0",
-    "sinon": "^7.5.0"
+    "sinon": "^7.5.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha && npm run lint",
